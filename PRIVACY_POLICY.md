@@ -4,13 +4,6 @@
 **App:** GoalPulse (`com.goalpulse`)
 **Developer contact:** khunkar.swati@gmail.com
 
-> ⚠️ ACTION REQUIRED: Google Play requires a **publicly hosted** privacy policy
-> URL. Publish this text at a stable URL (free options: GitHub Pages, Google
-> Sites, Notion public page, Carrd) and paste that URL into Play Console →
-> Policy → App content → Privacy policy. Replace the contact email if you prefer.
-
----
-
 ## Overview
 GoalPulse is a FIFA World Cup 2026 score, schedule, standings and news app. We
 designed it to be privacy-friendly: **GoalPulse does not require an account and
